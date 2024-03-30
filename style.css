@@ -53,6 +53,7 @@
 
 }
 .container::after{
+    content: '';
     width: 180px;
     height: 180px;
     background: #419aff;
