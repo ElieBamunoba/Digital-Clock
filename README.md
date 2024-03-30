@@ -3,6 +3,7 @@
 This is a simple digital clock project implemented using HTML, CSS, and JavaScript. It displays the current time in hours, minutes, and seconds.
 
 ## UI
+![Screenshot 2024-03-30 133524](https://github.com/ElieBamunoba/Digital-Clock/assets/78250384/24a2bbbe-ca1d-4841-8a49-f817f80e8616)
 
 ## Features
 
